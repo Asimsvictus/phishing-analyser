@@ -1,0 +1,19 @@
+From: paypal-security@suspicious-domain.com
+To: victim@gmail.com
+Reply-To: attacker@gmail.com
+Subject: Urgent: Your account has been suspended
+Received-SPF: none
+Date: Wed, 02 Apr 2026 10:00:00 +0000
+
+Dear Customer,
+
+Your PayPal account has been suspended due to suspicious activity.
+Please verify your account immediately by clicking the link below:
+
+http://malware.wicar.org/data/eicar.com
+http://www.google.com
+https://github.com
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+PayPal Security Team
